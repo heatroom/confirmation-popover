@@ -1,0 +1,29 @@
+{
+  "name": "confirmation-popover",
+  "repo": "heatroom/confirmation-popover",
+  "description": "Confirmation Popover for inline confirmations",
+  "version": "0.0.1",
+  "keywords": [
+    "confirm",
+    "confirmation",
+    "popover",
+    "ui"
+  ],
+  "dependencies": {
+    "component/popover": "*",
+    "component/jquery": "*",
+    "component/bind": "*",
+    "component/inherit": "0.0.2",
+    "component/aurora": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js",
+    "template.js"
+  ],
+  "styles": [
+    "confirmation-popover.css"
+  ]
+}
