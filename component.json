@@ -14,7 +14,7 @@
     "component/jquery": "*",
     "component/bind": "*",
     "component/inherit": "0.0.2",
-    "heatroom/aurora-tip": "*"
+    "heatroom/aurora-popover": "*"
   },
   "development": {},
   "license": "MIT",
